@@ -57,7 +57,7 @@ plugins:
         - "provider:geosite:adblock"
         - "provider:geosite:adblockplus"
         - "provider:geosite:adcolony-ads"
-        - "provider:geosite:adguuard"
+        - "provider:geosite:adguard"
         - "provider:geosite:category-ru-gov"
         - "provider:geosite:easylist"
         - "provider:geosite:jd-ads"
