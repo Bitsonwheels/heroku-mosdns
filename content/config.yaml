@@ -52,15 +52,15 @@ plugins:
     type: query_matcher
     args:
       domain:
-        - 'provider:geosite:category-ads'
-      # - 'provider:geosite:category-porn'
-        - 'provider:geosite:adblock'
-        - 'provider:geosite:adblockplus'
-        - 'provider:geosite:adcolony-ads'
-        - 'provider:geosite:adguuard'
-        - 'provider:geosite:category-ru-gov'
-        - 'provider:geosite:easylist'
-         - 'provider:geosite:jd-ads'
+        - "provider:geosite:category-ads"
+      # - "provider:geosite:category-porn"
+        - "provider:geosite:adblock"
+        - "provider:geosite:adblockplus"
+        - "provider:geosite:adcolony-ads"
+        - "provider:geosite:adguuard"
+        - "provider:geosite:category-ru-gov"
+        - "provider:geosite:easylist"
+        - "provider:geosite:jd-ads"
       # - "example.example"
   # For more info on geosite: https://github.com/v2fly/domain-list-community/tree/master/data
 
